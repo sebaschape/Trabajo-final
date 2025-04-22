@@ -12,7 +12,7 @@
 
 *Vinculos académicos y descrpción*
 
-**Santiago Franco Agudelo**
+**Santiago Franco Agudelo:**
 Estudiante de Ingenieria industrial en la Universidad de Antoquia con habilidades destacadas en la proactividad y orientado a resultados, con habilidades solidas en la resolucion de problemas, con una comunicacion efectiva y trabajo en equipo. Destacado por el enfoque analitico y actitud positiva que le permite afrontar desafios con eficacia y aportar soluciones optimas a entornos dinamicos con un liderazgo colaborativo. 
 
 
