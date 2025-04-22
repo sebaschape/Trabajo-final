@@ -1,6 +1,6 @@
 # Trabajo-final
 
-##Integrantes del equipo
+*Integrantes del grupo*
 
 **Edgardo Fernandes**
 **Santiago Franco**
