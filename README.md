@@ -6,7 +6,7 @@
 
 **Edgardo Fernandes**
 
-**Santiago Franco**
+**Santiago Franco Agudelo**
 
 **Sebastian Chapeton**
 
