@@ -15,7 +15,8 @@
 **Santiago Franco Agudelo:**
 Estudiante de Ingenieria industrial en la Universidad de Antoquia con habilidades destacadas en la proactividad y orientado a resultados, con habilidades solidas en la resolucion de problemas, con una comunicacion efectiva y trabajo en equipo. Destacado por el enfoque analitico y actitud positiva que le permite afrontar desafios con eficacia y aportar soluciones optimas a entornos dinamicos con un liderazgo colaborativo. 
 
-
+**Sebastian Chapeton**
+Estudiante de la Universidad de Antioquia, cursando actualmente quinto semestre de ingenieria industrial, destacado por su pasión al deporte, mayormente al fútbol, el cual ha formado en Sebastian un caracter de sana competencia, de resultados y de trabajo en equipo; habilidades que ha desarrollado aún más en el avance de su carrera. También es destacado por su esfuerzo al trabajar por aquello que quiere, y ser constante y disciplinado hasta lograr sus objetivos.
 
 *Descripcion del Proyecto*
 
