@@ -82,16 +82,6 @@ El codigo debe estar estructurado y documentado para permitir mejoras y actualiz
 
 **Plan de proyecto**
 
-Reunión inicial y definición del proyecto.	2025-04-21 12:00:00	2025-04-21 05:00:00
-Análisis de requisitos.	2025-04-21 12:00:00	2025-04-21 05:00:00
-Diseño del sistema.	2025-04-28 12:00:00	2025-04-28 05:00:00
-Registro de usuarios.	2025-04-28 12:00:00	2025-04-28 05:00:00
-Ingreso y retiro de vehículos.	2025-05-05 12:00:00	2025-05-05 05:00:00
-Módulo administrador y reportes.	2025-05-05 12:00:00	2025-05-05 05:00:00
-Exportación CSV y logging.	2025-05-12 12:00:00	2025-05-12 05:00:00
-Pruebas y validaciones.	2025-05-12 12:00:00	2025-05-12 05:00:00
-Documentación.	2025-05-19 12:00:00	2025-05-19 05:00:00
-Revisión y preparación para entrega.	2025-05-19 12:00:00	2025-05-19 05:00:00
 
 
 
