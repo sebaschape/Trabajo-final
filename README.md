@@ -83,8 +83,6 @@ El codigo debe estar estructurado y documentado para permitir mejoras y actualiz
 **Plan de proyecto**
 
 
-
-
 ![image](https://github.com/user-attachments/assets/2465f451-4cf5-4284-814d-9eec085583c1)
 
 
