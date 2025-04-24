@@ -25,7 +25,7 @@ Estudiante de la Universidad de Antioquia, cursando actualmente quinto semestre 
 
 Este proyecto consiste en el desarrollo de un programa para gestionar un parqueadero en la Universidad de Antioquia. El sistema permitirá controlar el ingreso y salida de vehículos, asignar espacios disponibles, llevar un registro del tiempo de permanencia y generar informes básicos. Además, con base en el tiempo que cada vehículo permanecerá en el parqueadero, se calculará un cobro monetario correspondiente. Su objetivo principal es optimizar el uso del espacio, facilitar el acceso a la información y mejorar la organización y sostenibilidad del parqueadero institucional.
 
-<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-de7c-61f7-a201-4e1072ecce67/raw?se=2025-04-22T19%3A07%3A16Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=3817786b-bf89-5b70-918e-0376acbadeb4&amp;skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-04-22T05%3A27%3A25Z&amp;ske=2025-04-23T05%3A27%3A25Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=ThtkWcN4iHJxP6%2BV7t9wyDenOfFrK%2BcjI6BvRi8/b3g%3D"/>![Uploading image.png…]()
+<img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-de7c-61f7-a201-4e1072ecce67/raw?se=2025-04-22T19%3A07%3A16Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=3817786b-bf89-5b70-918e-0376acbadeb4&amp;skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-04-22T05%3A27%3A25Z&amp;ske=2025-04-23T05%3A27%3A25Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=ThtkWcN4iHJxP6%2BV7t9wyDenOfFrK%2BcjI6BvRi8/b3g%3D"/>![image](https://github.com/user-attachments/assets/96380d04-10a6-4b91-8e4b-b853e25ef769)
 
 
 
@@ -79,4 +79,25 @@ El sistema debe mantener un funcionamiento estable y siempre registrar correctam
 
 *Mantenibilidad:* 
 El codigo debe estar estructurado y documentado para permitir mejoras y actualizaciones. 
+
+**Plan de proyecto**
+
+Reunión inicial y definición del proyecto.	2025-04-21 12:00:00	2025-04-21 05:00:00
+Análisis de requisitos.	2025-04-21 12:00:00	2025-04-21 05:00:00
+Diseño del sistema.	2025-04-28 12:00:00	2025-04-28 05:00:00
+Registro de usuarios.	2025-04-28 12:00:00	2025-04-28 05:00:00
+Ingreso y retiro de vehículos.	2025-05-05 12:00:00	2025-05-05 05:00:00
+Módulo administrador y reportes.	2025-05-05 12:00:00	2025-05-05 05:00:00
+Exportación CSV y logging.	2025-05-12 12:00:00	2025-05-12 05:00:00
+Pruebas y validaciones.	2025-05-12 12:00:00	2025-05-12 05:00:00
+Documentación.	2025-05-19 12:00:00	2025-05-19 05:00:00
+Revisión y preparación para entrega.	2025-05-19 12:00:00	2025-05-19 05:00:00
+
+
+
+<img src="(https://github.com/user-attachments/assets/10e71b4d-672a-43ac-8189-6af6b9cacffe)"
+
+
+
+
 
