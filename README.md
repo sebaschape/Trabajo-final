@@ -15,6 +15,9 @@
 **Santiago Franco Agudelo:**
 Estudiante de Ingenieria industrial en la Universidad de Antoquia con habilidades destacadas en la proactividad y orientado a resultados, con habilidades solidas en la resolucion de problemas, con una comunicacion efectiva y trabajo en equipo. Destacado por el enfoque analitico y actitud positiva que le permite afrontar desafios con eficacia y aportar soluciones optimas a entornos dinamicos con un liderazgo colaborativo. 
 
+**Edgardo Fernandez**
+Estudiante de ingenieria de la Udea, que actualmente esta en su quinto semestre y que tiene habilidades para resaltar como lo son el liderazgo, la diciplina, el trabajo en equipo, entre otras cosas. Es apasaionado por el deporte de fuerza como lo es el gimnasio, en sus tiempos libres se dedica a estar con amigos, familiares y pareja, pasando tiempo de calidad con cada uno. Le apasiona el mundo de los negocios y sueña con ser exitoso en ese ambito de su vida.
+
 **Sebastian Chapeton**
 Estudiante de la Universidad de Antioquia, cursando actualmente quinto semestre de ingenieria industrial, destacado por su pasión al deporte, mayormente al fútbol, el cual ha formado en Sebastian un caracter de sana competencia, de resultados y de trabajo en equipo; habilidades que ha desarrollado aún más en el avance de su carrera. También es destacado por su esfuerzo al trabajar por aquello que quiere, y ser constante y disciplinado hasta lograr sus objetivos.
 
