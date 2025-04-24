@@ -95,7 +95,8 @@ Revisión y preparación para entrega.	2025-05-19 12:00:00	2025-05-19 05:00:00
 
 
 
-<img src="(https://github.com/user-attachments/assets/10e71b4d-672a-43ac-8189-6af6b9cacffe)"
+![image](https://github.com/user-attachments/assets/2465f451-4cf5-4284-814d-9eec085583c1)
+
 
 
 
