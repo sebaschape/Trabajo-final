@@ -28,6 +28,9 @@ Este proyecto consiste en el desarrollo de un programa para gestionar un parquea
 <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-de7c-61f7-a201-4e1072ecce67/raw?se=2025-04-22T19%3A07%3A16Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;scid=3817786b-bf89-5b70-918e-0376acbadeb4&amp;skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2025-04-22T05%3A27%3A25Z&amp;ske=2025-04-23T05%3A27%3A25Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=ThtkWcN4iHJxP6%2BV7t9wyDenOfFrK%2BcjI6BvRi8/b3g%3D"/>![image](https://github.com/user-attachments/assets/96380d04-10a6-4b91-8e4b-b853e25ef769)
 
 
+![image](https://github.com/user-attachments/assets/2465f451-4cf5-4284-814d-9eec085583c1)
+
+
 
 
 *Especificación de requisitos* 
@@ -83,7 +86,7 @@ El codigo debe estar estructurado y documentado para permitir mejoras y actualiz
 **Plan de proyecto**
 
 
-![image](https://github.com/user-attachments/assets/2465f451-4cf5-4284-814d-9eec085583c1)
+
 
 
 
