@@ -83,7 +83,64 @@ El sistema debe mantener un funcionamiento estable y siempre registrar correctam
 *Mantenibilidad:* 
 El codigo debe estar estructurado y documentado para permitir mejoras y actualizaciones. 
 
-**Plan de proyecto**
+# Plan de Proyecto
+
+## Cronograma de Desarrollo
+
+---
+
+###  Fase 1: Planificación y Diseño (Semanas 1–2)
+
+**Duración:** 10 horas  
+**Actividades:**
+- Análisis de requisitos  
+- Diseño de arquitectura  
+- Creación de documentación inicial
+
+**Entregables:**  
+Documentación de requisitos, diseño del sistema
+
+---
+
+###  Fase 2: Desarrollo Core (Semanas 3–6)
+
+**Duración:** 25 horas  
+**Actividades:**
+- Implementación de clases principales  
+- Desarrollo de funcionalidades de usuario  
+- Sistema de validaciones
+
+**Entregables:**  
+Código funcional básico
+
+---
+
+###  Fase 3: Características Avanzadas (Semanas 7–10)
+
+**Duración:** 10 horas  
+**Actividades:**
+- Panel de administración  
+- Sistema de reportes  
+- Exportación CSV
+
+**Entregables:**  
+Sistema completo
+
+---
+
+###  Fase 4: Testing y Documentación (Semanas 11–15)
+
+**Duración:** 5 horas  
+**Actividades:**
+- Pruebas exhaustivas  
+- Documentación final  
+- Manual de usuario
+
+**Entregables:**  
+Sistema probado y documentado
+
+
+
 
 
 
