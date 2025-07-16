@@ -163,6 +163,71 @@ Desarrollo Core      █ █ █ █
 Características              █ █ █ █
 Testing                                █ █ █
 Sustentación                                  █
+```
+## Plan de Versionado
+
+### Estrategia de Versionado
+
+Se utiliza **Semantic Versioning (SemVer)** con el formato:  
+**MAJOR.MINOR.PATCH**
+
+- **MAJOR**: Cambios incompatibles en la API
+- **MINOR**: Nuevas funcionalidades compatibles
+- **PATCH**: Corrección de errores
+
+---
+
+### Historial de Versiones
+
+#### v1.0.0 (Semana 16) - ✅ Versión Final
+- ✅ Sistema completo funcional
+- ✅ Todas las características implementadas
+- ✅ Documentación completa
+- ✅ Testing exhaustivo superado
+
+#### v0.9.0 (Semana 15) -  Release Candidate
+- ✅ Sistema de logging implementado
+- ✅ Exportación CSV funcional
+
+#### v0.8.0 (Semana 12) -  Beta
+- ✅ Manual de usuario completado
+- ✅ Testing final en progreso
+
+#### v0.7.0 (Semana 10) -  Beta
+- ✅ Sistema de administración completo
+- ✅ Todos los reportes funcionales
+- ✅ Exportación de datos
+- ✅ Últimas validaciones
+
+#### v0.5.0 (Semana 7) -  Alpha
+- ✅ Reportes en gráficos implementados
+- ✅ Exportación CSV inicial
+- ✅ Panel de administración básico
+
+#### v0.3.0 (Semana 6) -  Entrega 1
+- ✅ Validaciones principales
+- ✅ Sistema de login básico
+- ✅ Clases de usuario y sesión
+
+#### v0.2.0 (Semana 5) -  Desarrollo del Core
+- ✅ Desarrollo de clases principales
+- ✅ Funcionalidades básicas de usuario
+- ✅ Sistema de validaciones core
+
+#### v0.1.0 (Semana 3-4) -  Prototipo Inicial
+- ✅ Maquetación de interfaces
+- ✅ Diseño de clases base
+- ✅ Desarrollo de lógica de negocio
+
+
+
+
+
+
+
+
+
+
 
 
 
