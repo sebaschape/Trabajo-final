@@ -139,6 +139,30 @@ Sistema completo
 **Entregables:**  
 Sistema probado y documentado
 
+## Presupuesto del Proyecto
+
+| Recurso               | Horas | Costo por Hora | Total       |
+|-----------------------|-------|----------------|-------------|
+| Líder de Proyecto     | 20    | $32,500*       | $650,000    |
+| Desarrollador Backend | 20    | $32,500*       | $650,000    |
+| Analista de Sistemas  | 10    | $32,500*       | $325,000    |
+| **Total**             | **50**| -              | **$1,625,000** |
+
+> *Basado en valor de práctica profesional (1 SMLV / 160 horas = $32,500/hora)
+
+---
+
+##  Diagrama de Gantt
+
+```plaintext
+Semanas        1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Planificación  █ █
+Desarrollo Core      █ █ █ █
+Características              █ █ █ █
+Testing                                █ █ █
+Sustentación                                  █
+
+
 
 
 
