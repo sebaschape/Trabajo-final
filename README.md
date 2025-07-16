@@ -139,6 +139,8 @@ Sistema completo
 **Entregables:**  
 Sistema probado y documentado
 
+
+
 ## Presupuesto del Proyecto
 
 | Recurso               | Horas | Costo por Hora | Total       |
